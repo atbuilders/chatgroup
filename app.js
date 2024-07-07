@@ -1,12 +1,12 @@
 <script>
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyADR2cnfdA0lOkM7JJ9gxhnR_iZgoLiuho",
+    authDomain: "at-animations.firebaseapp.com",
+    projectId: "at-animations",
+    storageBucket: "at-animations.appspot.com",
+    messagingSenderId: "167038153987",
+    appId: "1:167038153987:web:84187a1b9c712f744b2536"
 };
 
 firebase.initializeApp(firebaseConfig);
